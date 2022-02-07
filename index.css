@@ -414,7 +414,7 @@
   .boxes{
     display: flex;
     justify-content: center;
-    cursor: pointer;
+    /* cursor: pointer; */
   }
   
   .pickywheel{
@@ -465,6 +465,7 @@
     font-size: 1.7rem;
     font-weight: 700;
     padding-left: 2rem;
+    cursor: pointer;
   }
   
   .link-1{
@@ -478,6 +479,7 @@
     color: #1890ff ;
     font-size: 1.7rem;
     font-weight: 700;
+    cursor: pointer;
     padding-right: 2rem;
   }
   
@@ -498,7 +500,7 @@
   
   .boxes1{
     padding-left: 2rem;
-    cursor: pointer;
+    /* cursor: pointer; */
   }
   
   .view-more{
